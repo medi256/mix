@@ -1,0 +1,83 @@
+#alot{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 20px;
+    box-shadow: 0 0 6px black;
+}
+
+#yes{
+    text-align: left;
+    margin-left: 50px;
+    width: 60%;
+}
+#nop{
+    text-align: left;
+    margin-left: 50px;
+    width: 60%;
+    color: deepskyblue;
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+#rain {
+    text-align: left;
+    margin-left: 30px;
+    width: 50%;
+}
+
+#demo{
+    text-align:right;
+    margin-right: 50px; 
+    position: relative;
+    bottom: 100px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#close{
+    display: flex;
+    text-align: center;
+        /* background-color: black;
+        color: white; */
+        margin-left: 60px;
+        margin-right: 60px;
+        border-radius: 20px;
+        width: 100%;
+        margin-bottom: 100px;
+}
+
+#cool{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+        padding: 30px;
+        width: 50%;
+        box-shadow: 0 0 6px black;
+}
+#sunny{
+    background-color: black;
+    color: white;
+    margin-left: 300px;
+    margin-right: 100px;
+    border-radius: 20px;
+    padding: 30px;
+    width: 50%;
+    box-shadow: 0 0 6px black;
+    
+}
+p{
+    word-spacing: 8px;
+}
+
+.note{
+    color: deepskyblue;
+}
+.note2{
+    color: deepskyblue;
+}
+hr{
+    background-color: yellow;
+}
